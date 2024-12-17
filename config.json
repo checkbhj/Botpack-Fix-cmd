@@ -39,7 +39,7 @@
   "eventDisabled": [],
   "BOTNAME": "░▒▓█ 𝐒𝟒𝐁𝟏𝐊 𝐁𝐎𝐓 █▓▒░",
   "BOTNICKNAME": "𝐒𝟒𝐁𝟏𝐊 𝐁𝐎𝐓",
-  "PREFIX": "/",
+  "PREFIX": "$",
   "SABIK": [
     "100071575183469"
   ],
@@ -77,7 +77,7 @@
   },
   "daily": {
     "cooldownTime": 43200000,
-    "rewardCoin": 500
+    "rewardCoin": 10
   },
   "work": {
     "cooldownTime": 1200000
@@ -109,5 +109,9 @@
   "menu": {
     "autoUnsend": true,
     "delayUnsend": 60
+  },
+  "dns": {},
+  "math": {
+    "WOLFRAM": "T8J8YV-H265UQ762K"
   }
 }

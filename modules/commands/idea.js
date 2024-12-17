@@ -5,7 +5,6 @@ module.exports.config = {
   credits: global.config.Codemaker,
   description: "5 বারের জন্য ক্রমাগত বন্ধুর ট্যাগ করুন\nসেই ব্যক্তিকে আত্মা কলিং বলা যেতে পারে",
   usePrefix: true, // Indicates the use of a prefix
-  allowPrefix: true, // Ensures prefix behavior is flexible
   commandCategory: "nsfw",
   cooldowns: 10, // Cooldown in seconds
   dependencies: {

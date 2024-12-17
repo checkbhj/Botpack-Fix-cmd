@@ -5,7 +5,6 @@ module.exports.config = {
   credits: "<Author>",
   description: "<Command Description>",
   usePrefix: true, // Set to true to enable the use of prefix while false if not.
-  allowPrefix: true, // Set to true to allow prefix even if usePrefix is false, this doesn't do anything if the usePrefix is true.
   commandCategory: "other",
   cooldowns: 5 // seconds to activate again
 };
